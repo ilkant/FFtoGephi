@@ -4,7 +4,6 @@ from csv import reader
 with open('FTDNA_FF_FILE.csv', 'r') as read_obj:
     csv_reader = reader(read_obj)
     i = 0
-    s = "Undirected"
     
     print("Source,Target,Type,Id,Label,timeset,Weight")
 
