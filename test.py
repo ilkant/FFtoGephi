@@ -47,7 +47,7 @@ if len(sys.argv) != 1:
             ind30 += 1
         else:
             offsetN = ForGephi.addNames2(fresh,offsetN)
-            offsetL = ForGephi.addLinks2(fresh,offsetL,200)
+            offsetL = ForGephi.addLinks2(fresh,offsetL)
     print('Done.')
 else:
     print('Usage: python kits.py kits.csv')
