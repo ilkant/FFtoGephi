@@ -19,8 +19,6 @@ from datetime import datetime
 from Kit import Kit
 from MatchList import MatchList
 from ForGephi import ForGephi
-#import ForGephi.py
-#from ForGephi import setMax
 
 #-----------------------------------------------------------------------------------------------------------    
 #----------------------------------------- Main ------------------------------------------------------------    
