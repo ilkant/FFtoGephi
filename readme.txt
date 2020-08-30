@@ -6,3 +6,5 @@ and it imports these csv-files. Both separate. Names to Nodes and Links to Links
 
 Usage: python FFtoGephiN.py >names.csv
        python FFtoGephiN.py >links.csv
+       
+Now there are also ForGephi.py, MatchList.py and test.by which can make a weighted network with Gephi and with bunch of your FTDNA FF matches kits.
