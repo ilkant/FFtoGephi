@@ -5,7 +5,7 @@ Polku='/home/user/Downloads/'
 Ftdna='_Family_Finder_Matches_'
 Ftype='.csv'
 
-for Item in 'kit1id' 'kit1id' 'kit1id' 'kit1id' ;
+for Item in 'kit1id' 'kit2id' 'kit3id' 'kit4id' 'kit5id' ;
   do
     mv $Polku$Item$Ftdna$OLD$Type $Polku$Item$Ftdna$NEW$FType
   done
