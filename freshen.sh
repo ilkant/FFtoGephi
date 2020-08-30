@@ -7,5 +7,5 @@ Ftype='.csv'
 
 for Item in 'kit1id' 'kit2id' 'kit3id' 'kit4id' 'kit5id' ;
   do
-    mv $Polku$Item$Ftdna$OLD$Type $Polku$Item$Ftdna$NEW$FType
+    mv $Polku$Item$Ftdna$OLD$Ftype $Polku$Item$Ftdna$NEW$Ftype
   done
